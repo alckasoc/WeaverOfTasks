@@ -2,4 +2,4 @@
 .env
 
 # Kaggle json.
-.kaggle
+.kaggle/*
