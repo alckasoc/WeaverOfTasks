@@ -3,4 +3,6 @@ langchain
 langchain_experimental
 pandasai
 llama-index
+llama-index-experimental
+tabulate
 numpy==1.24.4  # For TaskWeaver to run properly.

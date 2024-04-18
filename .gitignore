@@ -3,3 +3,9 @@
 
 # Kaggle json.
 .kaggle
+
+# Cache.
+cache/
+
+# PandasAI.
+pandasai.log
