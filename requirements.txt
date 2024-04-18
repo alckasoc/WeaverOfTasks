@@ -5,4 +5,5 @@ pandasai
 llama-index
 llama-index-experimental
 tabulate
+vanna
 numpy==1.24.4  # For TaskWeaver to run properly.
