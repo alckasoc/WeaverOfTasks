@@ -1,0 +1,6 @@
+kaggle
+langchain
+langchain_experimental
+pandasai
+llama-index
+numpy==1.24.4  # For TaskWeaver to run properly.
