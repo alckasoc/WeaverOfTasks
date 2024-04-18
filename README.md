@@ -65,6 +65,8 @@ pip install -r requirements.txt
 
 ## Getting Started
 
+**Disclaimer**: Ensure you have Docker as TaskWeaver will require this to run. Optionally, you can run with local execution with TaskWeaver. Check the [docs](https://microsoft.github.io/TaskWeaver/docs/FAQ#q-why-taskweaver-fails-and-the-logs-say-failed-to-connect-to-dockerdaemon) for more information. 
+
 1. Download the Kaggle [wildfires dataset](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data). For this step, ensure that your `.kaggle/kaggle.json` is correctly configured in the `Installation` section above. Ensure you are in the root directory.
 
 ```
