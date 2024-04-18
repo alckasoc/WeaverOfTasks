@@ -72,3 +72,9 @@ python download.py
 ```
 
 The above Python script downloads the dataset from Kaggle and unzips/stores it in the `data/` path within the root directory.  
+
+2. Save the unzipped data (sqlite) as a `.csv`. We will save both the entire `wildfires.csv` and a smaller version of it `wildfires_lite.csv` which contains only the first 10,000 rows.
+
+```
+python save_csv.py
+```
