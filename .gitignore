@@ -3,3 +3,6 @@
 
 # Kaggle json.
 .kaggle
+
+# Data.
+data/*

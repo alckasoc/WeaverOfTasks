@@ -62,3 +62,13 @@ cd ..
 ```
 pip install -r requirements.txt
 ```
+
+## Getting Started
+
+1. Download the Kaggle [wildfires dataset](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/data). For this step, ensure that your `.kaggle/kaggle.json` is correctly configured in the `Installation` section above. Ensure you are in the root directory.
+
+```
+python download.py
+```
+
+The above Python script downloads the dataset from Kaggle and unzips/stores it in the `data/` path within the root directory.  
