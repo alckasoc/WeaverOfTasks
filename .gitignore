@@ -1,2 +1,5 @@
 # Env variables.
 .env
+
+# Kaggle json.
+.kaggle
