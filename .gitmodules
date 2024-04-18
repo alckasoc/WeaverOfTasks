@@ -1,0 +1,3 @@
+[submodule "TaskWeaver"]
+	path = TaskWeaver
+	url = https://github.com/microsoft/TaskWeaver
