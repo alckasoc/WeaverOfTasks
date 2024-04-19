@@ -5,6 +5,10 @@
     - 1.1 [Setting Up Environment Variables](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#settingupenvironmentvariables)
     - 1.2 [Setting Up TaskWeaver](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#settinguptaskweaver)
     - 1.3 [Setting Up Other Requirements](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#settingupotherrequirements)
+- 2 [Getting Started](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#gettingstarted)
+- 3 [Additional API Keys](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#additionalapikeys)
+- 4 [Notebooks](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#notebooks)
+- 5 [Presentation Link](https://github.com/alckasoc/WeaverOfTasks/blob/main/README.md#presentationlink)
 
 ## Installation
 
@@ -87,3 +91,17 @@ You will need additional API keys to run the notebooks. Store these in the `.env
 - PandasAI: [PANDASAI_API_KEY](https://pandabi.ai)
 - Vanna: [VANNA_API_KEY](https://vanna.ai/)
 - OpenWeatherMap: [OPENWEATHERMAP_API_KEY](https://home.openweathermap.org/api_keys)
+- You.com: [YDC_API_KEY](https://api.you.com/api-key)
+
+## Notebooks
+
+The relevant notebooks are in the order:
+1. `data_analysis_agent.ipynb`
+2. `sql_agent.ipynb`
+3. `search_agent.ipynb`
+
+## Presentation Link
+
+You can also find the presentation in this repository as `Weaver Of Tasks.pdf`.
+
+Presentation Link: https://docs.google.com/presentation/d/1FU1txbtze1f2a99njDfaE8ZCUTXv8s0ASkniDqbi8oA/edit?usp=sharing
