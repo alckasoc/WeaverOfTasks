@@ -80,3 +80,10 @@ The above Python script downloads the dataset from Kaggle and unzips/stores it i
 ```
 python save_csv.py
 ```
+
+## Additional API Keys
+
+You will need additional API keys to run the notebooks. Store these in the `.env`.
+- PandasAI: [PANDASAI_API_KEY](https://pandabi.ai)
+- Vanna: [VANNA_API_KEY](https://vanna.ai/)
+- OpenWeather: [OPENWEATHER_API_KEY](https://home.openweathermap.org/api_keys)
