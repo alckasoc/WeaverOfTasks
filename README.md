@@ -86,4 +86,4 @@ python save_csv.py
 You will need additional API keys to run the notebooks. Store these in the `.env`.
 - PandasAI: [PANDASAI_API_KEY](https://pandabi.ai)
 - Vanna: [VANNA_API_KEY](https://vanna.ai/)
-- OpenWeather: [OPENWEATHER_API_KEY](https://home.openweathermap.org/api_keys)
+- OpenWeatherMap: [OPENWEATHERMAP_API_KEY](https://home.openweathermap.org/api_keys)
